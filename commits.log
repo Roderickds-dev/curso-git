@@ -1,0 +1,98 @@
+commit 39734c500aefa7d2e188ce19d1ef7ff9055f489b
+Merge: 0061973 ef1e7c8
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 21:22:50 2024 -0300
+
+    Resolviendo 2do Mergin
+
+commit 0061973051143c3050c14575765907894928bb56
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 21:06:24 2024 -0300
+
+    Agregando estaciones con fecha de inicio
+
+commit ef1e7c88dba8023861bc17f4986ff1d926dc3f4d
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 21:06:24 2024 -0300
+
+    Agregando estaciones del Año
+
+commit 36520f31701466642467cd0b92d56b4b0da584e5
+Merge: 702d991 515ae15
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 20:54:07 2024 -0300
+
+    Resolviendo conflicto merge-main
+
+commit 515ae15ed87cb36715d3c0ad20840cc2f672f373
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 20:47:46 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 702d9912e93a21a2f6796830d3fb14aa68eecd3d
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 20:45:16 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 3150f4d58635a55e581c329b02292c860df1d05f
+Merge: f833fb7 09463d4
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Sun Dec 29 20:29:36 2024 -0300
+
+    Merge branch 'js'
+
+commit 09463d4d8d46cfa10d02cd13b9b87b21af5a5939
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 18:33:33 2024 -0300
+
+    Creando index.js
+
+commit f833fb7039852062a2aecbf6ff53aaa94d3cc655
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 18:23:23 2024 -0300
+
+    Crando style.css
+
+commit 1b29458925ccebcc69026c819d6774a2c57a3657
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 18:15:59 2024 -0300
+
+    Creando archivo HTML
+
+commit 36087efa8e9c1789c778ad84f967f0cc1722c31d
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 17:29:08 2024 -0300
+
+    Ignorando Archivos
+
+commit 7d6d504d3d42479f5955542a247110437cf23e3b
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 16:49:27 2024 -0300
+
+    Regresando los cambios
+
+commit 4181cd218b8881793c0a299630d7c718659593f5
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Fri Dec 27 15:11:39 2024 -0300
+
+    Haciendo el 2do cambio desde la PC
+
+commit 9eeb26a3194a363dd90654a0a9f7eb5769d034d5
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Thu Dec 26 17:01:04 2024 -0300
+
+    Creando Licencia del Repositorio
+
+commit 5069388be344369b03da04afbeea7813e9746b93
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Thu Dec 26 16:54:10 2024 -0300
+
+    Agragando Contenido al README
+
+commit 6ef0eaddee9235b846d2036e1a026df9c34b0bf1
+Author: Roderickds-dev <roderickds.dev@gmail.com>
+Date:   Thu Dec 26 16:37:46 2024 -0300
+
+    First Commit

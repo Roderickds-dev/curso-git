@@ -1,0 +1,23 @@
+*   39734c5 Resolviendo 2do Mergin
+|\  
+| * ef1e7c8 Agregando estaciones del Año
+* | 0061973 Agregando estaciones con fecha de inicio
+|/  
+*   36520f3 Resolviendo conflicto merge-main
+|\  
+| * 515ae15 Agregando index.js al index.html
+* | 702d991 Agregando style.css al index.html
+* |   3150f4d Merge branch 'js'
+|\ \  
+| * | 09463d4 Creando index.js
+* | | f833fb7 Crando style.css
+| |/  
+|/|   
+* | 1b29458 Creando archivo HTML
+|/  
+* 36087ef Ignorando Archivos
+* 7d6d504 Regresando los cambios
+* 4181cd2 Haciendo el 2do cambio desde la PC
+* 9eeb26a Creando Licencia del Repositorio
+* 5069388 Agragando Contenido al README
+* 6ef0ead First Commit
