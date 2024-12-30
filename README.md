@@ -1,5 +1,6 @@
-Agregando el Primer Cambio al _README.md_
-
-Este commit es para oficializar la version **1.0.0**.
+# Curso de _Git_ & _GitHub_
 
 
+Flujo Basico de Git
+
+![Flujo de Git](git-flow.png)
